@@ -6,4 +6,14 @@ Powered by Pandas, Numpy, and Matplotlib, the code reads the formation energy ca
 An example is given for the surface phase diagram of CsPbI3, and the code is easily generalized to other materials.
 
 #Usage
-Download the pysurf.py and Data fold, and replace the your raw data 
+Download the pysurf.py code and the Data folder, and replace the surface_energy.csv with your raw data.
+
+#License
+This code is made available under the MIT license
+
+#Requirements
+pysurf.py is compatible with Python 3 and the following open source Python packages should be installed:
+
+Numpy
+Matplotlib
+Pandas
