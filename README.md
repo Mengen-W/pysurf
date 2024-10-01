@@ -1,1 +1,3 @@
 # Pysurf
+This is the documentation for the open-source Python code - pysurf. This code will generate phase diagrams for surfaces of perovskites from density functional theory calculations. Powered by Pandas, Numpy, and Matplotlib, the code reads the $E_{\text{tot}}[\text{Cs}_\alpha \text{Pb}_\beta \text{I}_\gamma (\text{CsPbI}_3)_\delta]$, $\alpha$, $\beta$, $\gamma$, $\delta$, $A$ values from a csv file, evaluate the most stable surfaces under the user-defined chemical potential region of \(\Delta\mu_{\text{Pb}}\) and \(\Delta\mu_{\text{I}}\), and generate a color contour plot for the phase diagram.
+An example is given for the surface phase diagram of CsPbI$_3$.
