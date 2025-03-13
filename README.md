@@ -27,12 +27,20 @@ Kejia Li, SUNY Binghamton
 
 ## Citation
 @article{li2024_cspbi3_surface,
+
   title={Density Functional Theory Study of Surface Stability and Phase Diagram of Orthorhombic CsPbI3},
+  
   author={Li, Kejia and Wang, Mengen},
+  
   journal={The Journal of Physical Chemistry C},
+  
   volume={129},
+  
   number={7},
+  
   pages={3809},
+  
   year={2025},
+  
   publisher={ACS Publications}
 }
