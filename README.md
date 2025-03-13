@@ -26,6 +26,8 @@ Mengen Wang, SUNY Binghamton (mengenwang@binghamton.edu)
 Kejia Li, SUNY Binghamton 
 
 ## Citation
+J. Phys. Chem. C 2025, 129, 7, 3809–3816
+
 @article{li2024_cspbi3_surface,
 
   title={Density Functional Theory Study of Surface Stability and Phase Diagram of Orthorhombic CsPbI3},
@@ -41,6 +43,8 @@ Kejia Li, SUNY Binghamton
   pages={3809},
   
   year={2025},
+
+  url={https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.4c07358},
   
   publisher={ACS Publications}
 }
